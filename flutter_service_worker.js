@@ -3,14 +3,12 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"assets/AssetManifest.bin": "c1e7a1c645a85ab8dcf1c42b0d1324bc",
-"assets/AssetManifest.bin.json": "2234992de795650948ce79c30acce197",
-"assets/AssetManifest.json": "204d645781d62d3becea3f7688174e7b",
+const RESOURCES = {"assets/AssetManifest.bin": "dd7b7ec15e75fc71191899bf4ffe1c74",
+"assets/AssetManifest.bin.json": "2648af5ab5f7d07df49fbbbc0384f0b1",
+"assets/AssetManifest.json": "e48771e1083c837dcb3fccb205b5de85",
 "assets/assets/images/Code1.png": "53fb2509e4222a6459a758004867d756",
 "assets/assets/images/Code2.png": "5f32b83fbd0282ae71f40609538ec72f",
-"assets/assets/images/curtain.gif": "71c00aeaa3b64e07d242c5bd9a755d43",
-"assets/assets/images/curtain.jpg": "033c99c323fa46ca3a2ef0411597d036",
-"assets/assets/images/gymnopedie.mp3": "789e91a8223efb10b9055238ee70eef8",
+"assets/assets/images/curtain.gif": "771849eede4c79398a0918f2a63fd33b",
 "assets/assets/images/Lamp.png": "5864094fe23e53643148851ec5f8d5fd",
 "assets/assets/images/Lamp2.png": "7182540de7d626a9705c4a08342451e6",
 "assets/assets/images/Lamp3.png": "5c8d805982e5c29873b39e523f2b239e",
@@ -39,7 +37,7 @@ const RESOURCES = {"assets/AssetManifest.bin": "c1e7a1c645a85ab8dcf1c42b0d1324bc
 "canvaskit/skwasm.worker.js": "89990e8c92bcb123999aa81f7e203b1c",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "flutter.js": "f393d3c16b631f36852323de8e583132",
-"flutter_bootstrap.js": "71aee5470f7ca2283d20624f9d890482",
+"flutter_bootstrap.js": "13df4c5df35dcaecf9bb86d161f4ccf9",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
